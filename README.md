@@ -31,6 +31,7 @@ T-Test across all manufacturing lots does not reject the null hypothesis. The p-
 
 T-Test - All manufacturing lots 
 
+![image](https://user-images.githubusercontent.com/88912539/147428374-044e12de-ca34-4a9f-9849-5b45a334c0e0.png)
 
 When evaluating all lots individually, we see that each p-value is greater than the predetermined cutoff for our hypothesis of 0.05. Therefore, it can be concluded that we do not have sufficient evidence to reject our null hypothesis. 
 Lot #1 : p-value 1 > 0.05
