@@ -44,6 +44,7 @@ T-Test - Lot # 1
 
 T- Test - Lot # 2 
 
+![image](https://user-images.githubusercontent.com/88912539/147428445-88ecae15-791c-44cc-8294-0bf31eb64872.png)
 
 T-Test - Lot # 3 
 
