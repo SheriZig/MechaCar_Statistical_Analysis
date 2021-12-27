@@ -18,6 +18,7 @@ Yes, the R-squared value predicts a 71.4% accuracy
 The design specification for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 psi. The analysis revealed that in total the design specification is met. The variance for PSI for all lots is 62.29 psi. When evaluating each Lot individually, the specification is not met. Lot1 met the specification with a variance of .97 psi and Lot2 met the specification with a variance of 7.47 psi.  However, Lot3 indicated a variance of 170.29 which far exceeds the 100 psi requirement. 
 
 Total Summary: 
+![image](https://user-images.githubusercontent.com/88912539/147428275-910948b1-861e-4d91-a519-019e22691db4.png)
 
 
 Lot Summary: 
