@@ -40,6 +40,7 @@ Lot # 3 : p-value .041 > 0.05
 
 T-Test - Lot # 1 
 
+![image](https://user-images.githubusercontent.com/88912539/147428408-65b3077d-00a8-43e3-95ba-c3d3454f3d99.png)
 
 T- Test - Lot # 2 
 
